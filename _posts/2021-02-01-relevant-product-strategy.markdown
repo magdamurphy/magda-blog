@@ -2,7 +2,7 @@
 layout: post
 title:  "Think about product with relevance to your business"
 date:   2021-02-01 14:34:25
-categories: jekyll update
+categories: business types
 tags: featured
 image: /assets/images/lamps.jpg
 ---
