@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: magdalena2019@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/df_logo."
 float_logo: true # true, false (default)
 
 # blog cover
@@ -22,7 +22,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "https://magdamurphy.github.io/magda-blog/" # the base hostname & protocol for your site
+url: "https://magdalenamurphy.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 
