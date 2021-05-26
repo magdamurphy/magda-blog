@@ -15,5 +15,5 @@ I was involved in building pointless products in the past that no one wanted so 
 
 This blog touches on Product Management, leadership, collaboration and software delivery based on my professional career and my MBA studies. I am writing about useful frameworks and the context they can be used in.
 
-If you have any questions or would like some help with your business, drop me an [contact me](mailto:magdalena2019@gmail.com).
+If you have any questions or would like some help with your business, [contact me](mailto:magdalena2019@gmail.com).
 
