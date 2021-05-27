@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Pirate Metrics11"
-date:   2021-02-30 14:34:25
+title:  "Pirate Metrics AARRR"
+date:   2021-05-26 14:34:25
 categories: metrics
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/article_images/2021-05-26-pirate-metrics/pirate-metrics-cover.jpg
+image2: /assets/article_images/2021-05-26-pirate-metrics/pirate-metrics-cover-mobile.jpg
 ---
-#Mediator Formats and CSS features
 
- 
+# Pirate Metrics AARRR useful framework ....
+
+This concept was first developed by [Dave McClure](https://www.linkedin.com/in/davemcclure/)
+
+ ![Pirate Metrics](/assets/article_images/2021-05-26-pirate-metrics/pirate_metrics.jpg "Pirate Metrics")
 
 Examples for different formats and css features
 
