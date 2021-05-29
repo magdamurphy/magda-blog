@@ -2,10 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/images/Magda.jpg
-image2: /assets/images/Magda-mobile.jpg
+--image: /assets/images/Magda.jpg
+--image2: /assets/images/Magda-mobile.jpg
 ---
-
 Hey, I'm Magda and I am passionate about Product Management!
 
 I have been exploring the ‘ingredients’ of building successful software products from different perspectives; I started as a data geek, then became a software developer, project manager and eventually moved to manage Product. I love asking 'why' and I always try to have the user in mind and the outcomes that the software is meant to produce. 
