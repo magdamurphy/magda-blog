@@ -40,7 +40,7 @@ How likely are customers to tell others about your product? The higher your vira
 ## Are Pirate Metrics useful for my business?
 <p>&nbsp;</p>
 
-Every business needs customers and they need to find out about your company (Acquisition), they will most likely need to go through some simple steps to fully start using your product (Activation), then you would like them to stay with you for as long as possible, or at least have positive experience (Retention), and obviously you need to find an effective way to monetise your efforts (Revenue). If your customers are happy with your product or services, they will tell others about it (Referral).
+Every business needs to find customers (Acquisition), and you want them to see the value of your product (Activation). Then, you would like them to stay with you for as long as possible, or at least have positive experience (Retention), and obviously you need to find an effective way to monetise your efforts (Revenue). If your customers are happy with your product or services, they will tell others about it (Referral).
 
 All of those metrics are important for the vast majority of businesses. It is crucial to closely monitor all of them. However, in terms of your business strategy in a given moment, one metric might be more important for you than the other depending on the nature of your work,  the stage of your business’ growth and simply your company’s goals.
 
@@ -52,19 +52,19 @@ Depending where you are in the product life cycle, you will have very different 
 If your company is at the very early stage of development you will want to get the product right and make sure you can achieve the Product Market Fit; this will require some acquisition, just enough to validate the need for your product, you’ll also start looking into retention. In the growth stage of your business, this is where you will ramp up your Acquisition channels and also make sure you have the best way to monetise (Revenue), these aspects will also influence customer retention. Referral is also important here as this is a nice and organic way to grow your business and validate that the product is good enough. In the late maturity stage and towards decline, you already have a lot of customers, so you will be keeping a close look at retention and making sure you work on ways to stay competitive. This is obviously a massive simplification, and there are many different external factors that can influence your strategy. 
 
 
-### Pirate Metrics in B2B vs B2C companies.
+### Pirate Metrics in B2B vs B2C companies
 <p>&nbsp;</p>
-Business to Business.
+Business to Business
 
 If you are dealing with a few valuable clients and the market you operate in is relatively small with big players (e.g. oil and gas industry), then you want to make sure your customers love your product; you can’t probably afford to lose them and also you don’t want to drain through the other players in the market before being ready for it. All of the metrics are important but you will probably be keeping a close eye on Retention the whole time. This is very closely linked to the size of your market and how close your relationships are with your clients.
 
-Business to Consumer.
+Business to Consumer
 
 If you offer products or services to consumers, you might not be as upset if a proportion of your customers decide to stop using your product, as this is part of defining your specific market. In fact, in the startup phase this is a big source of your learnings! Obviously, at the later stage, the goal of every company is to provide good quality products that everyone is talking about and explore the most effective marketing channels to reach your customer base! 
 
 B2B and B2C companies might be focusing on slightly different metrics for each component of AARRR:
 
-![Pirate Metrics in B2B vs B2C"](/assets/article_images/2021-05-26-pirate-metrics/PM_B2BC.jpg "Pirate Metrics in B2B vs B2C")
+![Pirate Metrics in B2B vs B2C](/assets/article_images/2021-05-26-pirate-metrics/PM_B2BC.jpg "Pirate Metrics in B2B vs B2C")
 
 ## Competition 
 <p>&nbsp;</p>
